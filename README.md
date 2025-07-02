@@ -1,5 +1,4 @@
-![Test Image 4](![image](https://github.com/user-attachments/assets/cb00ea82-ffd1-4796-a0c3-6add8d2a31c1)
-)
+![Test Image 4](https://learn.microsoft.com/en-us/training/media/products/github/github-overview.png)
 
 - 👋 Hi, I’m @KanilaAkarsha
 - 👀 I’m interested in Graphic design and Programming 
