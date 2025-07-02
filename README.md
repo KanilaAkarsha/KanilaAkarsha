@@ -1,3 +1,5 @@
+ ![ alt text](/Users/kanila/Downloads/Programmer-Illustration.jpg)
+
 - 👋 Hi, I’m @KanilaAkarsha
 - 👀 I’m interested in Graphic design and Programming 
 - 🌱 I’m currently learning Computer Science 
