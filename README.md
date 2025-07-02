@@ -1,4 +1,5 @@
- ![ alt text](/Users/kanila/Downloads/Programmer-Illustration.jpg)
+![Test Image 4](![image](https://github.com/user-attachments/assets/cb00ea82-ffd1-4796-a0c3-6add8d2a31c1)
+)
 
 - 👋 Hi, I’m @KanilaAkarsha
 - 👀 I’m interested in Graphic design and Programming 
